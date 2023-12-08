@@ -2,9 +2,19 @@
 2-credit course which counts towards Creative Coding Minor and/or EPD elective credits.
 LMSC-261 & MTEC-111 are prerequisites.
 
-## Description
-
-In this course, students develop programming skills to use their computers as dynamic musical instruments in solo and ensemble settings. As live coders, students will create and modify original code for audio application to respond to the needs of a particular performance in real time.
+## Topics
+- life of livecoding
+- patterns in minitidal
+- indicies and scales in minitidal
+- visuals in hydra and obs
+- social structures
+- estuary
+- analysis/research presentations
+- catch the wave
+- tidal cycles
+- superdirt
+- ORCA and rehearsals
+- final concert (estuary revisted and solo Tidal Cycles)
 
 ## Assignments and Grading
 
@@ -14,7 +24,7 @@ Attendance and Discussion Participation|20%
 Small Assignments|20%
 Estuary Group project|20%
 Analysis Presentation|20%
-Tidal Cycles project for Final Concert|20%
+Tidal Cycles solo project for Final Concert|20%
 **Total**|**100%**
 
 ### Everyday Tools
