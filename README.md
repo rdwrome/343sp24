@@ -42,7 +42,7 @@ Tidal Cycles solo project for Final Concert|20%
   3. Submit the link for the assignment repository folder in Canvas
 
 ### Documentation outline
-  - The documentation (again, always in Markdown as a .md file) must have the following:
+  - The documentation (always in Markdown as a .md file) must have the following:
     - what you did
     - how you did it
     - the problems you faced (ABDYD: always be documenting your debugging!)
