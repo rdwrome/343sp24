@@ -14,7 +14,7 @@ LMSC-261 & MTEC-111 are prerequisites.
 - tidal cycles
 - superdirt
 - ORCA and rehearsals
-- final concert (estuary revisted and solo Tidal Cycles)
+- final concert (estuary revisited and solo Tidal Cycles)
 
 ## Assignments and Grading
 
@@ -23,7 +23,7 @@ Description|Grade
 Attendance and Discussion Participation|20%
 Small Assignments|20%
 Estuary Group project|20%
-Analysis Presentation|20%
+Analysis/Research Presentation|20%
 Tidal Cycles solo project for Final Concert|20%
 **Total**|**100%**
 
@@ -63,8 +63,6 @@ Tidal Cycles solo project for Final Concert|20%
 	- Meetings will take in person at 1126 Boylston Room 208.
 	- Walk-ins welcome, but preference is given to those who make [appointments here.](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJvY3FWa3g0b3dhfGRlZmF1bHR8OTk1YzM0YTAxMDljZGU5MGEzZjQxNzViOWQ2ZTM3NjA)
 - [Course Chair](https://college.berklee.edu/people/)
-### Tutor
-- TBD
 
 ## Policies
 ### Communication
@@ -88,7 +86,8 @@ Tidal Cycles solo project for Final Concert|20%
 - If you have a question about a grade, you must come ask it *in person* at my office hour.
 
 ### Attendance
-- The lowest attendance grade will be dropped.
+- The lowest **two** attendances grade will be dropped.
+- One absence will be excused for partial attendance credit *if* it is requested before class starts.
 - Remote attendance is not permitted.
 - You must attend class with the computer you're using for class projects (no phones, no tablets, no borrowed laptops). If you do not, you'll receive a partial attendance grade for the week.
 - If you are more than 5 minutes late for class or leave more than 5 minutes early, you'll receive a partial attendance grade for the week.
