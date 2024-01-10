@@ -62,4 +62,4 @@
     - 10 min. presentation on a livecoding topic or work of your choice (with instructor preapproval)
 - Documentation for submission: .md bibliography using MLA format
     - Be SPECIFIC! one artist, one coding language/tool, one city's algorave scene, one technique, analysis of one particular work
-    - [Recommend starting here!](https://toplap.org/)
+    - can't be Hydra or SuperCollider

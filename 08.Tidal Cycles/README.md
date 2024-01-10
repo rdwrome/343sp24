@@ -6,7 +6,6 @@
 
 ### [MiniTidal REFRESHER (now we call this MiniNotation)](https://tidalcycles.org/docs/reference/mini_notation)
 
-
 ### new to us from minitidal
 - [i make money moves: the meaning(s) of `$` and orbits](https://tidalcycles.org/docs/innards/meaning_of_dollar)
 - [operators](https://tidalcycles.org/docs/reference/pattern_structure)
