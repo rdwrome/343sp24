@@ -54,25 +54,9 @@
 - Big Picture
 - Nitty Gritty (the syllabus)
 
-## 2 LeGIT
-- [Visual Studio Code](https://code.visualstudio.com/)
-- [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-- Version Control with Git + GitHub.com + GitHubDesktop
-
-### Tools Setup Order of Operations
-- Download and install VSC (Visual Studio Code)
-- Go to [GitHub.com](https://github.com/) and make an account (your username should be kind of professional)
-- Download and install [GitHubDesktop](https://desktop.github.com/)
-- Sign into your GitHub account *through* GitHubDesktop
-
 ### THE TWO GitHub REPOSITORIES OF THIS CLASS
 - One to share my materials with you **(343)**
 - One to share your materials with me **(lc)**
-
-### Git Resources
-- [simple](http://rogerdudler.github.io/git-guide/)
-- [slightly detailed](https://medium.freecodecamp.org/what-is-git-and-how-to-use-it-c341b049ae61)
-- [comprehensive](https://www.codecademy.com/learn/learn-git)
 
 ## For next week:
   - Clone the **343** Repository
@@ -80,7 +64,7 @@
   - [The Discord](https://discord.gg/8ENjAgBfvX)
   - Trueman Reading Response
   - BRING HEADPHONES!!!
-  - GIG
+  - GIGS: Feb. 22 at MOS; May 7 in 22-112
 
 ## Listening/Looking:
 - [Beannes at LiveCodera](https://drive.google.com/file/d/1Wi6t5HBeXK_7qF2DqMCrd6dyryaONzLa/view?usp=sharing)
