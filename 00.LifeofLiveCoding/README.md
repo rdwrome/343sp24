@@ -62,7 +62,7 @@
   - Clone the **343** Repository
   - Setup your **lc** Repository
   - [The Discord](https://discord.gg/8ENjAgBfvX)
-  - Trueman Reading Response
+  - Trueman Reading Response (reading itself in the 343 repository, instructions in the Assignments section of Canvas)
   - BRING HEADPHONES!!!
   - GIGS: Feb. 22 at MOS; May 7 in 22-112
 
