@@ -80,6 +80,7 @@
   - [The Discord](https://discord.gg/8ENjAgBfvX)
   - Trueman Reading Response
   - BRING HEADPHONES!!!
+  - GIG
 
 ## Listening/Looking:
 - [Beannes at LiveCodera](https://drive.google.com/file/d/1Wi6t5HBeXK_7qF2DqMCrd6dyryaONzLa/view?usp=sharing)
