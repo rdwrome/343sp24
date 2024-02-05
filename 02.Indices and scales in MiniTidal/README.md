@@ -11,8 +11,9 @@
 ### sound bank indicies
 - see all the current samples with:
 `!localview audiomap`
-- `n` for iNdex or Note (more on this later)
+- `n` for iNdex (unpitched samples) or Note (samples that are or can be pitched) (more on this later)
 - if you give a certain number of events and a different number to use for those events from the index, it will try and even it out.
+- n for iNdex goes **after** sound; n for Note goes **before** sounds
 
 **eg**
 
@@ -29,9 +30,9 @@
 
 `n (scale "bartok" "0 2 4 5") # s "moog"` = special scale notes
 
-`n (scale "bartok" "[0..16]") # "moog"` = special scale notes with randomness
+`n (run 7) # s "moog"` = hear a run of the whole collection
 
-`s "moog" # n (irand 16)` = randomness with indicies
+`s "moog" # n (irand 7)` = randomness with indicies (doesn't work as notes)
 
 #### all the scales
 `minPent majPent ritusen egyptian kumai hirajoshi iwato chinese indian pelog prometheus scriabin gong shang jiao zhi yu whole augmented augmented2 hexMajor7 hexDorian hexPhrygian hexSus hexMajor6 hexAeolian major ionian dorian phrygian lydian mixolydian aeolian minor locrian harmonicMinor harmonicMajor melodicMinor melodicMinorDesc melodicMajor bartok hindu todi purvi marva bhairav ahirbhairav superLocrian romanianMinor hungarianMinor neapolitanMinor enigmatic spanish leadingWhole lydianMinor neapolitanMajor locrianMajor diminished diminished2 chromatic`

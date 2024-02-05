@@ -22,7 +22,7 @@
 
 ## MiniTidal
 - Everything is pattern-based
-  - [NOT BPM!](https://tidalcycles.org/docs/patternlib/tutorials/cycles)
+  - [NOT BPM!](https://tidalcycles.org/docs/reference/cycles)
 - Based on [TidalCycles](https://tidalcycles.org/)
   - In TidalCycles everything is pattern-based, too
 - Use the samples in the sandbox (we'll get to more complicated samples later)
@@ -117,6 +117,8 @@ s "{bd bd bd bd, cp cp hh}"
 
 ### mix
 
+`-- comment out`
+
 `# silence`
 
 `# pan`
@@ -124,8 +126,6 @@ s "{bd bd bd bd, cp cp hh}"
 `# gain`
 
 `# resonance`
-
-`-- comment out`
 
 ### periodic oscillators
 

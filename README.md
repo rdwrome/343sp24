@@ -14,7 +14,7 @@ LMSC-261 & MTEC-111 are prerequisites.
 - tidal cycles
 - superdirt
 - ORCA and rehearsals
-- final concert (estuary revisited and solo Tidal Cycles)
+- MAY 7: final concert (estuary revisited and solo Tidal Cycles)
 
 ## Assignments and Grading
 
@@ -24,7 +24,7 @@ Attendance and Discussion Participation|20%
 Small Assignments|20%
 Estuary Group project|20%
 Analysis/Research Presentation|20%
-Tidal Cycles solo project for Final Concert|20%
+Tidal Cycles solo project for Final Concert or Documentation|20%
 **Total**|**100%**
 
 ### Everyday Tools
