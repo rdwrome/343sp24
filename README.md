@@ -24,8 +24,20 @@ Attendance and Discussion Participation|20%
 Small Assignments|20%
 Estuary Group project|20%
 Analysis/Research Presentation|20%
-Tidal Cycles solo project for Final Concert or Documentation|20%
+Tidal Cycles Solo|20%
 **Total**|**100%**
+
+### Assignments
+- Small Assignments
+  - Code + Documentation or Documentation File (whichever is specified) in your GitHub repository due in Canvas.
+- Estuary: a 5-min structured group improvisation.
+  - Code + Documentation File in your GitHub repository due in Canvas.
+- Analysis/Research Presentation.
+  - Documentation File in your GitHub repository due in Canvas.
+  - *TOPIC PRE-APPROVAL NECESSARY*
+- Tidal Cycles Solo.
+  - Code + Documentation File in your GitHub repository due in Canvas.
+  - **EITHER** performed at SHOW May 7 **OR** Audio/Visual Documentation.
 
 ### Everyday Tools
 
