@@ -69,9 +69,15 @@
 
 ## Upcoming HW:
 - Feb. 26 Estuary Due
-- Feb. 26 Analysis/Research Topic Proposal Due
+- Feb. 26 Analysis/Research Topic Proposal Due (see below)
 - [Feb. 26 Analysis/Research Check-ins](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJvY3FWa3g0b3dhfGRlZmF1bHR8OTk1YzM0YTAxMDljZGU5MGEzZjQxNzViOWQ2ZTM3NjA)
 - March 26: Analysis/Research Presentations
+
+**Analysis/Research Presentation**
+- 7 min. presentation on a SPECIFIC livecoding topic or work of your choice (with instructor preapproval)
+- Be SPECIFIC! one artist, one coding language/tool, one city's algorave scene, one technique, analysis of one particular work
+- can't be Hydra or SuperCollider
+- Documentation for submission: .md bibliography using [MLA format](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html).
 
 ## Recommended but not required
 - [Legacy Russell talking about her concept of Glitch Feminism at the School of Visual Arts](https://www.youtube.com/watch?v=DqNPgd5B3io)

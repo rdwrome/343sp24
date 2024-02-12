@@ -3,5 +3,19 @@
 - Documentation for submission: code, a .md documentation file (see below) that also addresses how your group worked together.
 
 **Groups:**
-- Matt, Dooho, Ahmad
-- Jacob, Ruby, Jin
+diego<br>
+belle<br>
+sunshiyu<br>
+olek<br>
+<br>
+<br>
+<br>
+aj<br>
+emory<br>
+ryan<br>
+<br>
+<br>
+<br>
+yujin<br>
+yuval<br>
+bethanie<br>
