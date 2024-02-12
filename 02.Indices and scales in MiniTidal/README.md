@@ -68,7 +68,7 @@
 - Take a look at the [TidalCycles documentation here](https://tidalcycles.org/docs/reference/), and cross reference it with the definitions in [this Haskell file](https://github.com/dktr0/estuary/blob/dev/client/src/Estuary/Help/MiniTidal.hs) that is up-to-date with what MiniTidal is capable of in Estuary.
 
 ## Upcoming HW:
-- Feb. 26 Estuary Due
+- Feb. 26 Estuary Documentation Due
 - Feb. 26 Analysis/Research Topic Proposal Due (see below)
 - [Feb. 26 Analysis/Research Check-ins](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJvY3FWa3g0b3dhfGRlZmF1bHR8OTk1YzM0YTAxMDljZGU5MGEzZjQxNzViOWQ2ZTM3NjA)
 - March 26: Analysis/Research Presentations
