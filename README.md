@@ -8,8 +8,8 @@ LMSC-261 & MTEC-111 are prerequisites.
 - indicies and scales in minitidal
 - visuals in hydra and obs
 - social structures
-- estuary
-- analysis/research presentations
+- estuary (due feb 26)
+- analysis/research presentations (due march 26)
 - catch the wave
 - tidal cycles
 - superdirt
@@ -34,7 +34,7 @@ Tidal Cycles Solo|20%
   - Code + Documentation File in your GitHub repository due in Canvas.
 - Analysis/Research Presentation.
   - Documentation File in your GitHub repository due in Canvas.
-  - *TOPIC PRE-APPROVAL NECESSARY*
+  - *TOPIC PRE-APPROVAL NECESSARY and DUE FEB.26*
 - Tidal Cycles Solo.
   - Code + Documentation File in your GitHub repository due in Canvas.
   - **EITHER** performed at SHOW May 7 **OR** Audio/Visual Documentation.
