@@ -67,10 +67,11 @@
 ## to go EVEN further
 - Take a look at the [TidalCycles documentation here](https://tidalcycles.org/docs/reference/), and cross reference it with the definitions in [this Haskell file](https://github.com/dktr0/estuary/blob/dev/client/src/Estuary/Help/MiniTidal.hs) that is up-to-date with what MiniTidal is capable of in Estuary.
 
-## For next week:
-- Make one MiniTidal patch you're proud of to share with the class.
-- Document how you made the patch using the "Documentation outline" in the syllabus. Add that documentation and the patch itself to a Markdown file you made for this week.
-- Submit via your lc Repository AND canvas.
+## Upcoming HW:
+- Feb. 26 Estuary Due
+- Feb. 26 Analysis/Research Topic Proposal Due
+- [Feb. 26 Analysis/Research Check-ins](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJvY3FWa3g0b3dhfGRlZmF1bHR8OTk1YzM0YTAxMDljZGU5MGEzZjQxNzViOWQ2ZTM3NjA)
+- March 26: Analysis/Research Presentations
 
 ## Recommended but not required
 - [Legacy Russell talking about her concept of Glitch Feminism at the School of Visual Arts](https://www.youtube.com/watch?v=DqNPgd5B3io)
