@@ -131,6 +131,10 @@
 
 `d6 $ randslice 8 $ s "bev"`
 
+- MASK https://userbase.tidalcycles.org/mask.html
+
+- EUCLID https://userbase.tidalcycles.org/euclidInv.html
+
 #### rachel ultimate favs
 - [off & fx. hocketing potential.](https://tidalcycles.org/docs/reference/time/#off)
 
