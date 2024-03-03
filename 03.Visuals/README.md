@@ -1,20 +1,31 @@
 # Visuals
 
-## Make some noise in BNO
+<!--- ## Make some noise in BNO
 
-## Show and Tell
+## Show and Tell --->
 
 ## Hydra
 - javascript-based
 - estuary!
-- atom package
-  - (gotta install [node.js](https://nodejs.org/en/download/))
-- [in-browser sandbox](https://hydra.ojack.xyz/?sketch_id=rangga_2)
-- A LOT of documentation, but not organized super-well yet
+- [in-browser sandbox](https://hydra.ojack.xyz/?sketch_id=example_3)
+- A LOT of GREAT documentation, but not organized super-well yet
+- [the discord server is great!](https://discord.com/invite/ZQjfHkNHXC)
 
 ### [Hydra Functions](https://hydra.ojack.xyz/functions/)
+- [osc](https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/src/)
+- [src](https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/src/)
+- [webcam](https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/external-sources/)
+- [modulate](https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/combinecoord/)
+- [arrays](https://hydra.ojack.xyz/docs/docs/learning/sequencing-and-interactivity/arrays/)
 
-### [Hydra Examples](https://github.com/hydra-synth/hydra-examples)
+### not now, but soon
+- pulsar/atom package
+  - (gotta install [node.js](https://nodejs.org/en/download/))
+- [fft](https://hydra.ojack.xyz/docs/docs/learning/sequencing-and-interactivity/audio/)
+- [midi](https://hydra.ojack.xyz/docs/docs/learning/sequencing-and-interactivity/midi/)
+- [hydra-superdirt](https://github.com/munshkr/hydra-superdirt)
+
+### [Hydra Garden](https://hydra.ojack.xyz/garden/)
 - roll through
 - play with some parameters
 - show and tell
@@ -55,7 +66,12 @@
       - BlackHole 16 ch
 
 ## Review of assignments and due dates for middle of semester
-
+- **Analysis/Research Presentation March 25!**
+- 7 min. presentation on a SPECIFIC livecoding topic or work of your choice (with instructor preapproval)
+- Be SPECIFIC! one artist, one coding language/tool, one city's algorave scene, one technique, analysis of one particular work
+- can't be Hydra or SuperCollider
+- Documentation for submission: .md bibliography using [MLA format](https://owl.purdue.edu/owl/research_and_citation/mla_style/mla_formatting_and_style_guide/mla_general_format.html).
+<!---
 ## For next week:
   - Midterm Presentation Proposal
     - .md from your repo into canvas
@@ -63,3 +79,4 @@
 - Documentation for submission: .md bibliography using MLA format
     - Be SPECIFIC! one artist, one coding language/tool, one city's algorave scene, one technique, analysis of one particular work
     - can't be Hydra or SuperCollider
+--->

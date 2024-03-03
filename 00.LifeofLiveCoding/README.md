@@ -64,7 +64,6 @@
   - [The Discord](https://discord.gg/8ENjAgBfvX)
   - Trueman Reading Response (reading itself in the 343 repository, instructions in the Assignments section of Canvas)
   - BRING HEADPHONES!!!
-  - GIGS: Feb. 22 at MOS; May 7 in 22-112
 
 ## Listening/Looking:
 - [Beannes at LiveCodera](https://drive.google.com/file/d/1Wi6t5HBeXK_7qF2DqMCrd6dyryaONzLa/view?usp=sharing)
