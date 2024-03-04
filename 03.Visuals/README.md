@@ -11,12 +11,24 @@
 - A LOT of GREAT documentation, but not organized super-well yet
 - [the discord server is great!](https://discord.com/invite/ZQjfHkNHXC)
 
+### [using the sandbox]
+- shuffle patch
+- shuffle parameter
+- reload
+- s0 vs. o0
+- everybody now!
+
 ### [Hydra Functions](https://hydra.ojack.xyz/functions/)
 - [osc](https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/src/)
-- [src](https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/src/)
-- [webcam](https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/external-sources/)
+- shape
+- gradient
+- all geometry
+- [src/external sources](https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/external-sources/)
 - [modulate](https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/combinecoord/)
 - [arrays](https://hydra.ojack.xyz/docs/docs/learning/sequencing-and-interactivity/arrays/)
+- [multiple outputs](https://hydra.ojack.xyz/docs/docs/learning/video-synth-basics/combine/)
+- [mouse](https://hydra.ojack.xyz/functions/#functions/mouse/0)
+- [bpm](https://hydra.ojack.xyz/functions/#functions/bpm/0)
 
 ### not now, but soon
 - pulsar/atom package
