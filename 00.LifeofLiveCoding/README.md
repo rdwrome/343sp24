@@ -1,5 +1,8 @@
 # The Life of Live Coding
 
+## Where we're coming from
+- [League of Automatic Music Composers 1980 - Later Became The Hub](https://acousmata.com/post/893801464/martian-folk-music)
+
 ## DTR: Live Coding
 - An approach to creative practice
 - Improviser makes art by re-writing rules (mostly computer programs, but sometimes other code) in real-time
@@ -40,12 +43,6 @@
   - Algorithm/Avatar is my improvisational interlocutor whom I'm attempting to reassemble as I go
   - Chaos reigns!
 
-## Where we're coming from
-- [League of Automatic Music Composers 1980 - Later Became The Hub](https://acousmata.com/post/893801464/martian-folk-music)
-
-## Where we're going to
-- [A Short History of Nearly Everything by hellocatfood (Antonio Roberts)](https://vimeo.com/555139492?embedded=true&source=video_title&owner=1969863)
-
 ## Who are you?
 
 ## What do you know about Live Coding? Why are you here?
@@ -62,8 +59,8 @@
   - Clone the **343** Repository
   - Setup your **lc** Repository
   - [The Discord](https://discord.gg/8ENjAgBfvX)
-  - Trueman Reading Response (reading itself in the 343 repository, instructions in the Assignments section of Canvas)
+  - Trueman Reading Response (reading itself in this, the 343 repository, instructions in the Assignments section of Canvas)
   - BRING HEADPHONES!!!
 
 ## Listening/Looking:
-- [Beannes at LiveCodera](https://drive.google.com/file/d/1Wi6t5HBeXK_7qF2DqMCrd6dyryaONzLa/view?usp=sharing)
+- [Chris Lambie-Hanson in 2022](https://archive.org/details/algorave-10-chris-lambie-hanson)

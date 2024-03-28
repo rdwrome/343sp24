@@ -67,7 +67,22 @@
 ## to go EVEN further
 - Take a look at the [TidalCycles documentation here](https://tidalcycles.org/docs/reference/), and cross reference it with the definitions in [this Haskell file](https://github.com/dktr0/estuary/blob/dev/client/src/Estuary/Help/MiniTidal.hs) that is up-to-date with what MiniTidal is capable of in Estuary.
 
-## Pattern in minitidal for next week!
+## Pattern in MiniTidal with a DOCUMENTATION FILE
+### Steps to submit via GitHub+Canvas
+
+  1. Make a folder in your GitHub private class repository named after the assignment (i.e. {yourusername}/lc/pattern, etc.)
+  2. Commit all parts of your assignment (code+documentation) into the assignment repository folder
+  3. Submit the link for the assignment repository folder in Canvas
+
+### Documentation outline
+- always in Markdown as a .md file
+- what you did
+- how you did it
+- the problems you faced (ABDYD: always be documenting your debugging!)
+- how you overcame them
+- *what code you used from others/elsewhere*
+    - where to find that code (specific links!!!)
+- For the purposes of this class, your documentation also helps you prepare to talk about your code in class with your colleagues.
 
 **Analysis/Research Presentation**
 - 7 min. presentation on a SPECIFIC livecoding topic or work of your choice (with instructor preapproval)

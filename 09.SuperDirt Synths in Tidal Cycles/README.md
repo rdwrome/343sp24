@@ -109,6 +109,33 @@ d7 $ n "0 2 4 6 0 2 6 8"
 ## [Sending Clock](https://tidalcycles.org/docs/configuration/MIDIOSC/midi/#synchronising-midi-clock)
   - yeah, yeah, yeah I know you'll want to use it through Live...
 
+  - boolean
+
+  - operators with notes
+
+  - MASK https://userbase.tidalcycles.org/mask.html
+
+  - EUCLID https://userbase.tidalcycles.org/euclidInv.html
+
+  - Stitch
+
+  - Struct
+
+  #### rachel ultimate favs
+  - [off & fx. hocketing potential.](https://tidalcycles.org/docs/reference/time/#off)
+
+  `d7 $ off 0.5 (# squiz 8) $ n ("~ 7 2 [3 2]" |+ irand 6) # s "newnotes"`
+
+  - [spin. argument is number of copies, then copies are offset in time and space! amazing for multichannel](https://tidalcycles.org/docs/reference/time/#spin)
+
+  `d7 $ spin 3 $ n ("~ 7 2 [3 2]" |+ irand 6) # s "newnotes"`
+
+  ## Yes, you can change the CPS now
+
+  `setcps (155/60/4)`
+
+  ## Yes, you can send midi out
+
 ## Patches You're Proud Of!
 
 ## Next week: Draft of your Final Project & ORCA

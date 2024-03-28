@@ -151,6 +151,6 @@ s "{bd bd bd bd, cp cp hh}"
 - Read:
   - Knotts-Changing.pdf here in GitHub!
 - Make a Markdown file in your **lc** Repository detailing 2 things that were new to you in the reading and 2 things you already knew in the reading.
-- Make one MiniTidal patch you're proud of to share with the class (will be factored into your participation grade next week).
+- Make one MiniTidal patch you're proud of to share with the class, add it to the Markdown file.
 - Submit your MarkDown file through a link from your repository to Canvas.
-- Never forget! HEADPHONES ALWAYS (this is the last reminder)
+- Never forget! HEADPHONES ALWAYS (this is the last reminder, will factor into your participation grade now)

@@ -1,8 +1,9 @@
 # Tidal Cycles
 
 ## Tidal Cycles
-### [Tutorials](https://tidalcycles.org/docs/patternlib/tutorials/course1)
+### [Tutorials](https://tidalcycles.org/docs/patternlib/tutorials/workshop)
 ### [Reference](https://tidalcycles.org/docs/reference/cycles)
+### [Discourse](https://club.tidalcycles.org/)
 
 ### [MiniTidal REFRESHER (now we call this MiniNotation)](https://tidalcycles.org/docs/reference/mini_notation)
 
@@ -25,8 +26,7 @@
   - control, return for multiple lines
   - `hush` !
 
-### a tour of rachel's favorite new functionality with samples
-#### mixing and effects
+### mixing and effects
 - xfade. orbit is argument.
 
 `d1 $ s "hh*16?"`
@@ -57,7 +57,7 @@
 
 `d1 $ s "hh*16?" # squiz "[4|8|12]"`
 
-#### pattern transformation
+### pattern transformation
 
 - one hit. NO ORBIT!
 
@@ -89,27 +89,19 @@
 
 `d2 $ linger "[0.25 0.5 0.75]" $ degrade $ note (arp "<converge diverge pinkyup pinkyupdown thumbup thumbupdown>" "<d'major a'major>") # s "newnotes"`
 
-- [scramble. sample with replacement.](https://tidalcycles.org/docs/reference/alteration/#scramble)
-
-`d4 $ scramble 3 $ n ("0 3 2") # s "invaders"` BETTER EXAMPLE HERE RACHEL
-
-- [rot. rotates the elements in the pattern.](https://tidalcycles.org/docs/reference/alteration/#rot)
-
-`d4 $ rot 1 $ n ("0 3 2") # s "invaders"` BETTER EXAMPLE HERE RACHEL
-
 - [chunk'. divides a pattern into parts, applies function to each part, reverses some(that's what the apostrophe at the end is about)](https://tidalcycles.org/docs/reference/alteration/#chunk-1)
 
 `d5 $ chunk' 3 (hurry 2) $ n ("7 2 [3 2] ~") # s "print"`  
 
-- operators a la rachelle (pentatonic clusters + just a *touch* of randomness)
+- operators a la rachelle with samples (pentatonic clusters + just a *touch* of randomness)
 
-`d5 $ n ("5 ~ 2 [3 2] ~" |+ irand 11) # s "print"`
+`d5 $ n ("1 ~ 2 [3 2] ~" |+ irand 11) # s "print"`
 
-#### samples
+### samples
 
 - striate. cuts sample into the parameter, plays progressive cut per loop. (can't use with pattern, but we'll get to that with "slice").
 
-`d5 $ striate 3 $ s "print:0 print:1 print:1"`
+`d5 $ striate 3 $ s "print:0 print:1 print:2"`
 
 - begin. where to begin in sample.
 
@@ -130,23 +122,6 @@
 - random slice. argument is how many slices to make of the sample, which one is random.
 
 `d6 $ randslice 8 $ s "bev"`
-
-- MASK https://userbase.tidalcycles.org/mask.html
-
-- EUCLID https://userbase.tidalcycles.org/euclidInv.html
-
-#### rachel ultimate favs
-- [off & fx. hocketing potential.](https://tidalcycles.org/docs/reference/time/#off)
-
-`d7 $ off 0.5 (# squiz 8) $ n ("~ 7 2 [3 2]" |+ irand 6) # s "newnotes"`
-
-- [spin. argument is number of copies, then copies are offset in time and space! amazing for multichannel](https://tidalcycles.org/docs/reference/time/#spin)
-
-`d7 $ spin 3 $ n ("~ 7 2 [3 2]" |+ irand 6) # s "newnotes"`
-
-## Yes, you can change the CPS now
-
-`setcps (155/60/4)`
 
 ## For next week:
 - Make one TidalCycles patch you're proud of to share with the class.

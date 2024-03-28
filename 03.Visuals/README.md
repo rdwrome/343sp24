@@ -1,8 +1,6 @@
 # Visuals
 
-<!--- ## Make some noise in BNO
-
-## Show and Tell --->
+## Show and Tell
 
 ## Hydra
 - javascript-based
@@ -46,7 +44,7 @@
 - Let your musicians see the screen
 - Don't give someone a seizure
 
-## Estuary > OBS NINJA > OBS
+## Estuary > [OBS NINJA](https://vdo.ninja/) > OBS
 
 ## Virtual Audio Interfaces
 - [BlackHole](https://existential.audio/blackhole/)
@@ -56,6 +54,8 @@
   - complicated, powerful
 - SoundFlower
   - deprecated, but otherwise perfect
+
+## Structure of TidalCycles vs SuperCollider FYI
 
 ## TidalCycles/SuperCollider Audio > BlackHole > OBS
 - ORDER OF OPERATIONS CRITICAL!

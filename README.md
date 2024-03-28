@@ -49,7 +49,7 @@ Tidal Cycles solo project for Final Concert or Documentation (see 11.Final Conce
 - how you overcame them
 - *what code you used from others/elsewhere*
     - where to find that code (specific links!!!)
-    - Other folks' GitHub public repositories and [Stack OverFlow](https://stackoverflow.com/) are the best places to go for help most of the time
+    - Other folks' GitHub public repositories are the best places to go for help most of the time
 - Correctly document all your debugging, especially if your code ultimately does not run as intended. I will take points off for code that does not run correctly, but will still give partial credit if it is well-documented.
 - For the purposes of this class, your documentation also helps you prepare to talk about your code in class with your colleagues.
 
