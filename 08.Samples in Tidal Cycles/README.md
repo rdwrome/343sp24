@@ -5,16 +5,18 @@
 ### [Reference](https://tidalcycles.org/docs/reference/cycles)
 ### [Discourse](https://club.tidalcycles.org/)
 
-### [MiniTidal REFRESHER (now we call this MiniNotation)](https://tidalcycles.org/docs/reference/mini_notation)
+### [MiniTidal/MiniNotation](https://tidalcycles.org/docs/reference/mini_notation)
 
 ### new to us from minitidal
 - [i make money moves: the meaning(s) of `$` and orbits](https://tidalcycles.org/docs/innards/meaning_of_dollar)
 - [operators](https://tidalcycles.org/docs/reference/pattern_structure)
-### starting up
+
+### starting up refresher
     - select your preferred audio output device in AudioMidi Setup
     - open SuperCollider
     - execute `SuperDirt.start;` with shift, return
     - does your preferred audio output device get listed?
+    - are they the same sample rate?
     - does it say `SuperDirt: listening to Tidal on port 57120`? (this will take a moment)
     - open a .tidal file in Pulsar
     - execute TidalCycles code with shift, return in Pulsar
@@ -24,7 +26,9 @@
 ## execute
   - shift, return for one line
   - control, return for multiple lines
-  - `hush` !
+  - `hush`
+  - `# silence`
+  - `-- comment`
 
 ### mixing and effects
 - xfade. orbit is argument.
@@ -51,11 +55,11 @@
 
 - crush. bitcrush with 1-16 argument
 
-`d1 $ s "hh*16?" # crush "[4|8|12]"`
+`d1 $ s "wobble" # crush "[4|8|12]"`
 
 - squiz. weird pitchshifter with arguments in multiples of two.
 
-`d1 $ s "hh*16?" # squiz "[4|8|12]"`
+`d1 $ s "wobble" # squiz "[4|8|12]"`
 
 ### pattern transformation
 
@@ -122,6 +126,9 @@
 - random slice. argument is how many slices to make of the sample, which one is random.
 
 `d6 $ randslice 8 $ s "bev"`
+
+## yes, you can change bps
+`setcps (115/60/4)`
 
 ## For next week:
 - Make one TidalCycles patch you're proud of to share with the class.

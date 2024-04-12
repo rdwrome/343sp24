@@ -1,0 +1,55 @@
+-- [SuperDirt Synths!](https://tidalcycles.org/docs/reference/synthesizers)
+-- Additive. SuperGong.
+d1 $ n "0 2 4 6 0 2 6 8"
+  # s "supergong"
+  # voice sine -- 'tone' knob
+  # decay sine -- harmonics decay
+  # accelerate sine -- pitch glide
+
+--Subtractive. SuperChip.
+d2 $ n "0 2 4 6 0 2 6 8"
+  # s "superchip"
+  # slide sine -- linear pitch glide
+  # rate sine -- repeats the above glide “n” times (can be fractional or negative)
+  # accelerate sine -- 'overall' glid
+  # pitch2 sine -- control the ratio of harmonics
+  # pitch3 sine -- control the ratio of harmonics
+  # voice sine -- causes variations in the levels of the 3 oscillators
+
+-- Subtractive. SuperReese.
+d3 $ n "0 2 4 6 0 2 6 8"
+  # s "superreese"
+  # accelerate sine -- 'overall' glid
+  # voice sine -- causes variations in the levels of the 3 oscillators
+  # detune sine -- detune amount
+
+-- Modeling. SuperHammond with voices:
+-- 0. bass violin 16’
+-- 1. tibia 8’
+-- 2. bassoon 8’
+-- 3. french trumpet 8’
+-- 4. string ensemble
+-- 5. Blues
+-- 6. Jazz 1
+-- 7. Full Shout
+-- 8. Bro’ Jack
+-- 9. Jazz 2
+d4 $ n "0 2 4 6 0 2 6 8"
+  # s "superhammond"
+  # voice 3
+
+-- Shepard tone on cycle!
+d5 $ n "0 2 4 6 0 2 6 8"
+  # s "cyclo"
+  # accelerate sine -- pitch-glide amount
+
+-- gabor grain
+d6 $ n "0 2 4 6 0 2 6 8"
+  # s "gabor"
+
+-- band limited impulse
+d7 $ n "0 2 4 6 0 2 6 8"
+    # s "imp"
+    # accelerate sine -- pitch-glide amount
+
+hush

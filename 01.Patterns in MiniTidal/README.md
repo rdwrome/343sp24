@@ -1,5 +1,7 @@
 # Patterns in MiniTidal
 
+RACHEL REFRESH FROM HERE: https://tidalcycles.org/docs/reference/mini_notation/
+
 ### Headphones?
 
 ### Reading:
@@ -67,7 +69,7 @@
 
 `/` = play once per cycle specified as integer in the denominator
 
-`|` = randomly choose sample from this list per cycle
+`[ | ]` = randomly choose sample from this list per cycle
 
 `<>` = choose one sample from this list to play per cycle
 

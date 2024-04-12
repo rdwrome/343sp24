@@ -13,9 +13,6 @@
 - Melody
 - "Projector" Sequencers
 
-## Solo Set Run-through
-
 ## Groups run-through
 
 ## documentation due NEXT WEEK. CAN'T PLAY SHOW WITHOUT DOCUMENTATION, ready to play in tech run-through
-## Final concert is last day of class
