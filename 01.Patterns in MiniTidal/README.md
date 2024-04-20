@@ -1,7 +1,5 @@
 # Patterns in MiniTidal
 
-RACHEL REFRESH FROM HERE: https://tidalcycles.org/docs/reference/mini_notation/
-
 ### Headphones?
 
 ### Reading:

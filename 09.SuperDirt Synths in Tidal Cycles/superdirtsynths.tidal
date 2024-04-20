@@ -2,9 +2,11 @@
 -- Additive. SuperGong.
 d1 $ n "0 2 4 6 0 2 6 8"
   # s "supergong"
-  # voice sine -- 'tone' knob
+  # voice 0.5 -- 'tone' knob
   # decay sine -- harmonics decay
   # accelerate sine -- pitch glide
+
+hush
 
 --Subtractive. SuperChip.
 d2 $ n "0 2 4 6 0 2 6 8"
@@ -36,7 +38,7 @@ d3 $ n "0 2 4 6 0 2 6 8"
 -- 9. Jazz 2
 d4 $ n "0 2 4 6 0 2 6 8"
   # s "superhammond"
-  # voice 3
+  # voice 8
 
 -- Shepard tone on cycle!
 d5 $ n "0 2 4 6 0 2 6 8"

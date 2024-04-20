@@ -15,4 +15,4 @@
 
 ## Groups run-through
 
-## documentation due NEXT WEEK. CAN'T PLAY SHOW WITHOUT DOCUMENTATION, ready to play in tech run-through
+## documentation due NEXT WEEK. CAN'T PLAY SHOW WITHOUT DOCUMENTATION.
