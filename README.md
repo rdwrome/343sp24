@@ -6,15 +6,15 @@ LMSC-261 & MTEC-111 are prerequisites.
 - life of livecoding
 - patterns in minitidal
 - indicies and scales in minitidal
-- visuals in hydra and obs
+- hydra
 - social structures
 - estuary
-- analysis/research presentations
+- research presentations
 - catch the wave
-- tidal cycles
-- superdirt
-- ORCA and rehearsals
-- MAY 7: final concert (estuary revisited and solo Tidal Cycles)
+- samples in tidal cycles
+- superdirt synths in tidal cycles
+- ORCA
+- final
 
 ## Assignments and Grading
 
@@ -23,7 +23,7 @@ Description|Grade
 Attendance and Discussion Participation|20%
 Small Assignments|20%
 Estuary Group project (see 05.Estuary README for description)|20%
-Analysis/Research Presentation (see 06.Analysis:Research Presentations README for description)|20%
+Research Presentation (see 06.Research Presentations README for description)|20%
 Tidal Cycles solo project for Final Concert or Documentation (see 11.Final Concert README for description)|20%
 **Total**|**100%**
 
@@ -80,14 +80,13 @@ Tidal Cycles solo project for Final Concert or Documentation (see 11.Final Conce
 
 ### Grading
 - The lowest small assignment grade will be dropped.
-- Assignment extensions are granted more than 12 hours in advance.
+- Assignment extensions are granted more than 12 hours in advance, and are available for all submitted assignments except the final project.
 - You will be held to the Berklee Policy on Honesty in Academic Work (see Student Handbook).
 - Late assignments are not accepted.
 - If you have a question about a grade, you must come ask it *in person* at my office hour.
 
 ### Attendance
 - The lowest **two** attendances grade will be dropped.
-- One absence will be excused for partial attendance credit *if* it is requested before class starts.
 - Remote attendance is not permitted.
 - You must attend class with the computer you're using for class projects (no phones, no tablets, no borrowed laptops). If you do not, you'll receive a partial attendance grade for the week.
 - If you are more than 5 minutes late for class or leave more than 5 minutes early, you'll receive a partial attendance grade for the week.

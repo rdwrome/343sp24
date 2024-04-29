@@ -25,3 +25,5 @@
 
 ## The Structure
 `d1 $ n "0 2 4 6 0 2 6 8" # sound "cyclo"`
+
+## SETTING UP PULSAR WITH HYDRA & TIDALCYCLES!

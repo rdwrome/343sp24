@@ -13,6 +13,4 @@
 - Melody
 - "Projector" Sequencers
 
-## Groups run-through
-
 ## documentation due NEXT WEEK. CAN'T PLAY SHOW WITHOUT DOCUMENTATION.

@@ -32,19 +32,6 @@ d1 $ distrib [9,16,5] $ sound "reverbkick"
 
 -- EXCERPTS FROM ALEX MCLEAN'S WORKSHOPS
 
--- There's quite a few scales available:
-  scaleList
-
--- It's fun to use waveforms to pick notes from a scale. For example,
--- use a smooth sinewave to select notes from a minor scale:
-d1
-$ segment 16
-$ n (scale "minor" $ floor <$> (range 0 14 sine))
-  # sound "supersaw"
-  # legato 0.5
-  # lpf 1000
-  # lpq 0.1
-
 -- Remember that waveforms don't have structure, so don't produce
 -- events until you use something like 'segment', which in the example
 -- above picks 16 notes per cycle.

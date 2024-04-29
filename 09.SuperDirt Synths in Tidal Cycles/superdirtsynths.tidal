@@ -55,3 +55,22 @@ d7 $ n "0 2 4 6 0 2 6 8"
     # accelerate sine -- pitch-glide amount
 
 hush
+
+chordList
+chordTable
+
+d1
+$ often (slow 16)
+$ rolledBy sine
+$ n "c'min9'8" --o
+  # sound "cyclo"
+
+scaleList
+scaleTable
+
+d1
+$ segment 16
+$ n (scale "chromatic" $ floor <$> (range 0 16 sine))
+  # sound "gabor"
+
+hush
