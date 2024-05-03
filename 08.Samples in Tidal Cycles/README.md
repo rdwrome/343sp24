@@ -4,6 +4,7 @@
 ### [Tutorials](https://tidalcycles.org/docs/patternlib/tutorials/workshop)
 ### [Reference](https://tidalcycles.org/docs/reference/cycles)
 ### [Discourse](https://club.tidalcycles.org/)
+### [Great Haskell Help](https://learnyouahaskell.com/chapters)
 
 ### [MiniTidal/MiniNotation](https://tidalcycles.org/docs/reference/mini_notation)
 
